@@ -25,7 +25,8 @@
   },
   "homepage": "https://github.com/tomdale/fastboot-aws#readme",
   "dependencies": {
-    "fastboot": "^3.1.0",
+    "ember-fetch": "^8.0.2",
+    "fastboot": "^2.0.2",
     "fastboot-app-server": "^2.0.0",
     "fastboot-redis-cache": "^0.2.0",
     "fastboot-s3-downloader": "^0.2.2",
